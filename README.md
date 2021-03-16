@@ -5,9 +5,31 @@
 [![](https://img.shields.io/static/v1?message=JelNiSlaw&style=for-the-badge&label=Messenger&logo=messenger&logoColor=FFFFFF&labelColor=00B2FF&cacheSeconds=86400)](https://m.me/JelNiSlaw)
 [![](https://img.shields.io/static/v1?message=me@jel.gay&style=for-the-badge&label=Email&logo=gmail&logoColor=FFFFFF&labelColor=D14836&cacheSeconds=86400)](mailto:me@jel.gay)
 
-## Here are some stats that don't mean anything but look cool, and everyone has them
+## Some of my projects
 
-![](https://github-readme-stats.vercel.app/api?username=JelNiSlaw&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&bg_color=0,141321,4E1E3C&hide_title=true&hide_border=true&cache_seconds=1800)
+### My Discord bot
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=JelNiSlaw&repo=Menel&hide_border=true&theme=radical&cache_seconds=7200&border_radius=8&show_owner=false)](https://github.com/jelni/Menel)
+
+### My [Powercord](https://github.com/powercord-org/powercord) plugins
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=JelNiSlaw&repo=Powersdfghjkl&hide_border=true&theme=radical&cache_seconds=7200&border_radius=8&show_owner=false)](https://github.com/jelni/Powersdfghjkl)
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=JelNiSlaw&repo=Powermock&hide_border=true&theme=radical&cache_seconds=7200&border_radius=8&show_owner=false)](https://github.com/jelni/Powermock)
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=JelNiSlaw&repo=powercord-base64&hide_border=true&theme=radical&cache_seconds=7200&border_radius=8&show_owner=false)](https://github.com/jelni/powercord-base64)
+
+### Projects you should take a look at
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=wulkanowy&repo=wulkanowy&hide_border=true&theme=radical&cache_seconds=7200&border_radius=8&show_owner=true)](https://github.com/wulkanowy/wulkanowy)
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=michalwa&repo=py-cliffs&hide_border=true&theme=radical&cache_seconds=7200&border_radius=8&show_owner=true)](https://github.com/michalwa/py-cliffs)
+
+## Here are some stats
+
+they don't mean anything but everyone has them
+
+![](https://github-readme-stats.vercel.app/api?username=JelNiSlaw&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&hide_title=true&hide_border=true&cache_seconds=3600)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jelni&hide_title=true&hide_border=true&layout=compact&card_width=445&langs_count=10&theme=radical&cache_seconds=3600)
 
