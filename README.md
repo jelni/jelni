@@ -7,11 +7,15 @@
 
 ## Some of my projects
 
-### My Discord bot
+### Discord Bot
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=JelNiSlaw&repo=Menel&hide_border=true&theme=radical&cache_seconds=7200&border_radius=8&show_owner=false)](https://github.com/jelni/Menel)
 
-### My [Powercord](https://github.com/powercord-org/powercord) plugins
+### Utilities
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=JelNiSlaw&repo=file-date-sorter&hide_border=true&theme=radical&cache_seconds=7200&border_radius=8&show_owner=false)](https://github.com/jelni/file-date-sorter)
+
+### [Powercord](https://github.com/powercord-org/powercord) plugins
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=JelNiSlaw&repo=Powersdfghjkl&hide_border=true&theme=radical&cache_seconds=7200&border_radius=8&show_owner=false)](https://github.com/jelni/Powersdfghjkl)
 
@@ -19,11 +23,11 @@
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=JelNiSlaw&repo=powercord-base64&hide_border=true&theme=radical&cache_seconds=7200&border_radius=8&show_owner=false)](https://github.com/jelni/powercord-base64)
 
-### Projects you should take a look at
+## Projects you should take a look at
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Rapptz&repo=discord.py&hide_border=true&theme=radical&cache_seconds=7200&border_radius=8&show_owner=true)](https://github.com/Rapptz/discord.py)
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=wulkanowy&repo=wulkanowy&hide_border=true&theme=radical&cache_seconds=7200&border_radius=8&show_owner=true)](https://github.com/wulkanowy/wulkanowy)
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=michalwa&repo=py-cliffs&hide_border=true&theme=radical&cache_seconds=7200&border_radius=8&show_owner=true)](https://github.com/michalwa/py-cliffs)
 
 ## Here are some stats
 
